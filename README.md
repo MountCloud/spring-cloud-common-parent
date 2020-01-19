@@ -1,8 +1,8 @@
 ![INFO](info.jpg)
 
 # USE 使用
-Application Main class add
 ```
+Application Main class add
 @ComponentScan(basePackages={"you project package","org.mountcloud.springcloud"})
 ```
 
