@@ -16,6 +16,7 @@ Application Main class add
 
 # NOTE
    Since Eureka 2x is no longer maintained, the service registration in this framework uses Consul for registration services.</br>
+   
    This project is a framework for quickly building the spring cloud, and extended work for individual components of spring boot. Spring cloud version used: Hoxton.RELEASE, spring boot version: 2.2.1.RELEASE.</br>
    
    The project provides a solution integrating Oauth, a solution integrating feigh, a solution integrating Mongo, a solution integrating mybatis, and a solution integrating redis.</br>
@@ -36,7 +37,9 @@ spring-cloud-common-redis: https://github.com/MountCloud/spring-cloud-common-red
 
 # 介绍
    由于Eureka 2x停止维护，所以此框架中服务注册使用Consul进行注册服务。</br>
+   
    该项目是一个快速构建spring cloud的框架，并且针对spring boot的个别组件进行了扩展工作。使用的spring cloud版本：Hoxton.RELEASE，spring boot版本：2.2.1.RELEASE。</br>
+   
    项目提供了集成Oauth的解决方案、集成feigh的解决方案、集成Mongo的解决方案、集成mybatis的解决方案、集成redis的解决方案。</br>
  
 # 组成
