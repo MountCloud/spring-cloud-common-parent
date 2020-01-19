@@ -1,4 +1,4 @@
-![INFO](info.jpg)
+<div align=center><img src="info.png" width="600"/></div>
 
 # USE 使用
 ```
