@@ -2,11 +2,11 @@
 
 # USE 使用
 ```
-	<parent>
-		<groupId>org.mountcloud</groupId>
-		<artifactId>spring-cloud-common-parent</artifactId>
-		<version>2.2.1.RELEASE-Hoxton.RELEASE-1.1</version>
-	</parent>
+<parent>
+	<groupId>org.mountcloud</groupId>
+	<artifactId>spring-cloud-common-parent</artifactId>
+	<version>2.2.1.RELEASE-Hoxton.RELEASE-1.1</version>
+</parent>
 ```
 
 # NOTE
